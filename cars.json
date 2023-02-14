@@ -1,0 +1,49 @@
+[
+    {
+        "brand": "Buggati ",
+        "model": "Chiron",
+        "year": "2022",
+        "body": "sport",
+        "transmission": "Automatic",
+        "type": "FWD",
+        "img": "https://cdn.carbuzz.com/gallery-images/2022-bugatti-chiron-front-view-driving-carbuzz-705564-1600.jpg"
+    },
+    {
+        "brand": "Mclaren",
+        "model": "Spider",
+        "year": "2022",
+        "body": "sport",
+        "transmission": "Automatic",
+        "type": "FWD",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2vfnBPJF7J7fVXixjvHMvPDFkEYZHWIglAg&usqp=CAU"
+    },
+    {
+        "brand": "Rolls Royce",
+        "model": "Ghost",
+        "year": "2020",
+        "body": "luxury",
+        "transmission": "Automatic",
+        "type": "RWD",
+        "img": "https://hips.hearstapps.com/hmg-prod/images/2020-rolls-royce-ghost-mmp-1-1585172707.jpg?crop=0.907xw:0.900xh;0.0635xw,0.0998xh&resize=768:*"
+    },
+    {
+        "brand": "Ferrari",
+        "model": "Spider",
+        "year": "2022",
+        "body": "Convertible",
+        "transmission": "Automatic",
+        "type": "AWD",
+        "img": "https://robbreport.com/wp-content/uploads/2015/07/1_ferrari-488-spider1.jpg"
+    },
+    {
+        "brand": "Lamborghini",
+        "model": "Urus",
+        "year": "2021",
+        "body": "SUV",
+        "transmission": "Automatic",
+        "type": "AWD",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGLTTNtZJDYnbkI6CZX3cDsjLh1O01r619Mw&usqp=CAU"
+    }
+    
+]
+
